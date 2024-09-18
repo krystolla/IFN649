@@ -25,3 +25,8 @@ W4 : Connect to AWS instance and Install MQTT on AWS
 W5 : Downstream communication (AWS tier – Edge tier – Sensing tier)
 <p align="center">
 <img src="https://i.imgur.com/Y2CkvTY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+W6 - W9 : Project Proposal and Presentation : IoT-Based Real-Time Patient Monitoring System
+
+<p align="center">
+<img src="https://i.imgur.com/8ylnBEJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
