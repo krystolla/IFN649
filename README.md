@@ -29,4 +29,22 @@ W5 : Downstream communication (AWS tier – Edge tier – Sensing tier)
 W6 - W9 : Project Proposal and Presentation : IoT-Based Real-Time Patient Monitoring System
 
 <p align="center">
-<img src="https://i.imgur.com/8ylnBEJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jBgS4Wf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+Data collection using MAX30102 and Arduino
+
+<p align="center">
+<img src="https://imgur.com/iRS5nO2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/ql2uKCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Data visualization using Matplotlib
+<p align="center">
+<img src="https://imgur.com/3GW1vNn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<img src="https://imgur.com/XLkyYlX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
